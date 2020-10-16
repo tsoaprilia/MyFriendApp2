@@ -11,8 +11,7 @@ Untuk dapat menggunakan FAB, harus menambahkan beberapa Script di file Gradle Mo
 - Database merupakan sebuah class yang di gunakan untuk mendaftarkan Data Access Object (DAO) dan Entitas. [ Baca Selengkapnya...](https://developer.android.com/training/data-storage/room?hl=id)
 
 - Fragment adalah class yang pada umumnya digunakan untuk kebutuhan menampilkan lebih dari satu fitur pada satu halaman.Pada project aplikasi MyFriendApp, akan 
-digunakan di dua Fragment (MyFriendsFragment.kt dan MyFriendsAddFragment.kt) pada satu Activity (MainActivity.kt).  [ Baca Selengkapnya...] (https://www.codepolitan.com/membuat-dan-menggunakan-fragment-59f80eff061a4)
-
+digunakan di dua Fragment (MyFriendsFragment.kt dan MyFriendsAddFragment.kt) pada satu Activity (MainActivity.kt).[ Baca Selengkapnya...](//www.codepolitan.com/membuat-dan-menggunakan-fragment-59f80eff061a4d)  
 ![WhatsApp Image 2020-10-16 at 20 19 50 (1)](https://user-images.githubusercontent.com/60412314/96265929-4179c880-0ff0-11eb-9029-821718ce48f2.jpeg)
 
 
