@@ -8,5 +8,8 @@
     <FrameLayout
         android:id="@+id/contentFrame"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"></FrameLayout>
+        android:layout_height="match_parent"
+        android:background="@drawable/haus">
+
+    </FrameLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

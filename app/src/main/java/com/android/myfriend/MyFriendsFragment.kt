@@ -34,11 +34,8 @@ class MyFriendsFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
         initLocalDb()
         initView()
-
-
     }
 
     private fun initLocalDb() {
@@ -50,11 +47,7 @@ class MyFriendsFragment : Fragment() {
         fabAddFriend.setOnClickListener {
             (activity as MainActivity).tampilMyFriendsAddFragment()
         }
-        fabAddFriend.setOnClickListener {
-            (activity as MainActivity).tampilMyFriendsAddFragment()
-        }
-        //        simulasiDataTeman()
-        //        tampilTeman()
+
         ambilDataTeman()
     }
 
