@@ -1,5 +1,6 @@
 # MyFriendApp
-MyFriendApp adalah aplikasi yang menampilkan informasi teman dalam bentuk list. Untuk menampikan List tersebut dibutuhkan komponen view RecyclerView. RecyclerView adalah komponen View yang tidak disediakan secara default. Maka, harus dilakukan penambahan library RecyclerView pada project MyFriendApp. [ Baca Selengkapnya...](https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=id)
+MyFriendApp adalah aplikasi yang menampilkan informasi teman dalam bentuk list, kita juga bisa menambahkan data teman sendiri.
+Untuk menampikan List tersebut dibutuhkan komponen view RecyclerView. RecyclerView adalah komponen View yang tidak disediakan secara default. Maka, harus dilakukan penambahan library RecyclerView pada project MyFriendApp. [ Baca Selengkapnya...](https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=id)
 
 # Tampilan Aplikasi 
 
