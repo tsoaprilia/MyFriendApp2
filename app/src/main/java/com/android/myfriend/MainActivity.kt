@@ -27,11 +27,5 @@ class MainActivity : AppCompatActivity() {
         gantiFragment(supportFragmentManager, MyFriendsAddFragment.newInstance(), R.id.contentFrame)
     }
 
-    fun tampilMyFriendsEditFragment() {
-        gantiFragment(
-            supportFragmentManager,
-            MyFriendsEditFragment.newInstance(),
-            R.id.contentFrame
-        )
-    }
+
 }
